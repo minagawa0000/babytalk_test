@@ -60,7 +60,7 @@ AWS_USE_PATH_STYLE_ENDPOINT=false<br>
 
 ○migrationファイルからテーブル作成<br>
 →下記のコマンドを実行<br>
- $php artisan maigrate　<br>
+ $php artisan migrate　<br>
 
 ○seederで初期値を登録（prefectureテーブル・babyage_scopeテーブル）<br>
 →下記のコマンドを実行<br>
